@@ -3,7 +3,7 @@
 		"name": "Road",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 3,
-		"techRequired": "Trading",
+		"techRequired": "The Wheel",
 		"uniques": ["Can be built outside your borders", "Costs [100] [Gold] per turn"],
 		"shortcutKey": "R",
         "civilopediaText": [
