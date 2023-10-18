@@ -1,1 +1,1 @@
-# 100-Maintenance-for-roads-mod, this mod changes roads to require 100 maintenance each, idk lol.
+# 100-Maintenance-for-roads-mod, this mod changes roads to 100 gold cost each, idk lol.
